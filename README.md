@@ -82,15 +82,11 @@ The website includes:
 
 ## 📂 Folder Structure
 
- .prompts
- .outputs
- .screenshots
+ * prompts
+ * outputs
+ * screenshots
+   
+ ## 👩‍💻 Author 
+ **Dimpu** Prompt Engineering Internship Project
  
-## 👩‍💻 Author
-
- Dimpu
- Prompt Engineering Internship Project
-
-## 🌐 Live Website
-
-https://scoop-magic-creator.lovable.app/
+ ## 🌐 Live Website [https://scoop-magic-creator.lovable.app/]

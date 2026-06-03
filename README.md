@@ -82,20 +82,15 @@ The website includes:
 
 ## 📂 Folder Structure
 
-```text
-FUTURE_PE_01/
-│
-├── prompts/
-├── outputs/
-├── screenshots/
-└── README.md
-```
-
+ .prompts
+ .outputs
+ .screenshots
+ 
 ## 👩‍💻 Author
 
-**Dimpu**
-Future Interns – Prompt Engineering Internship Project
+ Dimpu
+ Prompt Engineering Internship Project
 
 ## 🌐 Live Website
 
-https://scoop-magic-creator.lovable.app
+https://scoop-magic-creator.lovable.app/

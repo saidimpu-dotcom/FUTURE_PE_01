@@ -88,7 +88,9 @@ The website includes:
    
  ## 👩‍💻 Author
  
-   Dimpu
- * Prompt Engineering Internship Project
- 
-  Live Website [https://scoop-magic-creator.lovable.app/]
+  ## 👩‍💻 Author
+
+**Dimpu**  
+Prompt Engineering Internship Project
+
+##  Live Website [https://scoop-magic-creator.lovable.app/]

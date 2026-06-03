@@ -86,7 +86,9 @@ The website includes:
  * outputs
  * screenshots
    
- ## 👩‍💻 Author 
- **Dimpu** Prompt Engineering Internship Project
+ ## 👩‍💻 Author
  
- ## 🌐 Live Website [https://scoop-magic-creator.lovable.app/]
+   Dimpu
+ * Prompt Engineering Internship Project
+ 
+  Live Website [https://scoop-magic-creator.lovable.app/]

@@ -87,8 +87,6 @@ The website includes:
  * screenshots
    
  ## 👩‍💻 Author
- 
-  ## 👩‍💻 Author
 
 **Dimpu**  
 Prompt Engineering Internship Project
